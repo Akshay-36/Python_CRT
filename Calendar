@@ -1,0 +1,11 @@
+#Whole year calanedar
+import calendar
+a=int(input("Enter year"))
+res=calendar.calendar(a)
+print(res)
+
+#Calender with just a month
+import calendar
+a=int(input("Enter year"))
+res=calendar.calendar(a)
+print(res)
